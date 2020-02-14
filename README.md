@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+<!-- I learned about middleware and serverside routing. -->
+
 - [ ] Describe Middleware?
+
+<!-- middleware is a function you can write like a function that can perform tasks like validating a user's ID for the server. It can be a global function or it can be done locally depending on what you want to do. It seems very versatile. -->
 
 - [ ] Describe a Resource?
 
+<!-- i was taught that everything can be considered a resource when it comes to backend, node/express. -->
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+<!-- you can write a status code to tell the user that it was a success. -->
+
 - [ ] How can we partition our application into sub-applications?
+
+<!-- it's in how you route the applications. you can compartmentalize things in your app based on how you route them.  -->
 
 ## Minimum Viable Product
 
